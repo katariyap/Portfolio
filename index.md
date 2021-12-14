@@ -13,7 +13,7 @@
 
 ---
 [Engineering Automation Application - End to End Solution](https://www.loom.com/share/90d300e999b44a8498b74a49f471b0d3)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail2.jpg?raw=true"/>
 
 ---
 
