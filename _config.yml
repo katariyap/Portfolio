@@ -1,7 +1,7 @@
 title: Punam Katariya # your name (or website title) here
 key: MBA, M.Sc. Statistics, B.Sc. Mathematics, Data Science Certified
-bg: turquoise
-color: White
+# bg: turquoise
+# color: White
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h3>Data Scientist | Entrupruner | Consultant </h3>
