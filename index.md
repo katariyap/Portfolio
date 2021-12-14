@@ -5,14 +5,17 @@
 ### Full Stack 
 
 [Solidity - Blockchain / NFT project - AI/ML](https://www.loom.com/share/a13c77ccd6f2433bb82b2aa01af0c4d0)
+<br>
 <img src="images/dummy_thumbnail1.jpg?raw=true"/>
 
 ---
 [API Pull + Scrapping End to End application ](https://www.loom.com/share/8db51c936fa94eb8b04154bffd206d41)
+<br>
 <img src="images/dummy_thumbnail2.jpg?raw=true"/>
 
 ---
 [Engineering Automation Application - End to End Solution](https://www.loom.com/share/90d300e999b44a8498b74a49f471b0d3)
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
